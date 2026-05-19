@@ -23,13 +23,19 @@ An educational agent that helps create personalized study plans. Capabilities:
 - Reads learning topics from provided web links
 - Compares new material against your existing knowledge base
 - Generates structured study plans with milestones
-- Creates study notes and summaries
+- Creates study notes and summaries with **comparisons to Claude Code and Codex**
 - Tracks learning progress over time
 
 **Usage:** Invoke the teacher agent when you want to learn a new topic. Provide:
 1. Web links to resources you want to learn from
 2. Description of what you already know about the topic
 3. Your learning goals or desired outcomes
+4. **Note:** Always include comparisons with Claude Code and Codex workflows
+
+**Special Instructions:**
+- When generating study notes, **compare the topic with equivalent approaches in Claude Code and Codex**
+- Highlight differences in workflows, syntax, and best practices
+- Include examples showing how the same task would be accomplished in each tool
 
 ## Custom Skills (To Be Added)
 
