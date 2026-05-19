@@ -14,6 +14,23 @@ A skill for customizing opencode's own configuration.
 
 ---
 
+### teacher
+
+**File:** `<built-in>`
+
+An educational agent that helps create personalized study plans. Capabilities:
+
+- Reads learning topics from provided web links
+- Compares new material against your existing knowledge base
+- Generates structured study plans with milestones
+- Creates study notes and summaries
+- Tracks learning progress over time
+
+**Usage:** Invoke the teacher agent when you want to learn a new topic. Provide:
+1. Web links to resources you want to learn from
+2. Description of what you already know about the topic
+3. Your learning goals or desired outcomes
+
 ## Custom Skills (To Be Added)
 
 As you learn, add new skills here. Structure:
