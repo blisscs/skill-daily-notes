@@ -55,7 +55,7 @@ Today, you’ll learn:
 
 ### **📝 Step-by-Step Guide**
 1. **Locate the Skill**
-   - Open `AGENTS.md` in `~/.config/opencode/`.
+   - Open `AGENTS.md` in project root `./AGENTS.md`.
    - Find the `customize-opencode` skill.
 
 2. **Invoke the Skill**
@@ -148,7 +148,7 @@ Use `skill --help` if you’re stuck.
 ## 📋 Continue Tomorrow (Quick Resume)
 
 ### 📁 Reference File
-- **AGENTS.md**: `~/.config/opencode/AGENTS.md`
+- **AGENTS.md**: `./AGENTS.md` (local in project)
 
 ### 📝 Quick Resume Notes
 - **Topic**: Skills (invoking, exploring, creating)
@@ -166,8 +166,8 @@ skill --help
 # Invoke a skill
 skill <skill-name>
 
-# Open AGENTS.md
-open ~/.config/opencode/AGENTS.md
+# Open AGENTS.md (local)
+open ./AGENTS.md
 ```
 
 ### ⏭️ Tomorrow's Goal
